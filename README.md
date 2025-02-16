@@ -8,7 +8,7 @@
 
 <h3 align="left">Contact:</h3>
 <p align="left">
-  I'm an avid soccer fan - the best way to reach out is either by email, or to meet me on the pitch! ⚽️
+  I'm an avid soccer fan - the best way to reach out is either by email/LinkedIn, or to meet me on the pitch! ⚽️
 </p>
 
 <h3 align="left">Skills:</h3>
